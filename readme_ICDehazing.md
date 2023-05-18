@@ -4,8 +4,7 @@ The code is for the paper, "Illumination Controllable Dehazing Network based on 
 
 If you have any suggestions, feel free to contact me (Email: cxf_svip@163.com). Thanks.
 
-Note: This is not the final version of my code (almost the final version). I will update it after 
-the school server reboot.
+Note: I will update this repo after the school server reboot. This is almost the final version of my code. So you can easily use it for your research.
 
 -----------------------------------------------------------
 
