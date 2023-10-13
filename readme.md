@@ -20,8 +20,8 @@ The 4KDehazing dataset can be found at "Ultra-High-Definition Image Dehazing via
 
 ## step 2: train
 
-python train_ICDehazing.py --results_dir ../results/ICDehazing/4KDehazing_L2_DCP --img_w 256 --img_h 256 --train_batch_size 2 --dataset 4KDehazing --rec_loss L2 --prior_per True --prior_per_weight 1 --prior_decay 0.9 --model ICDehazing
-
+``python train_ICDehazing.py --results_dir ../results/ICDehazing/4KDehazing_L2_DCP --img_w 256 --img_h 256 --train_batch_size 2 --dataset 4KDehazing --rec_loss L2 --prior_per True --prior_per_weight 1 --prior_decay 0.9 --model ICDehazing
+``
 python train_ICDehazing.py --results_dir ../results/ICDehazing/OTS_L2_DCP --img_w 256 --img_h 256 --train_batch_size 2 --dataset OTS --rec_loss L2 --prior_per True --prior_per_weight 1 --prior_decay 0.9 --model ICDehazing
 
 **note: the val_dataloader (validation data) during training process can be chosen from trainset.
