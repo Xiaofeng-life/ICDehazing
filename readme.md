@@ -2,7 +2,7 @@
 
 The code is for the paper, "Illumination Controllable Dehazing Network based on Unsupervised Retinex Embedding".
 
-If you have any suggestions, feel free to contact me (Email: cxf_svip@163.com) or add a new issue. Thanks.
+If you have any quesions, feel free to contact me. My <b> E-mail </b> and <b> WeChat </b> can be found at my homepage: [<A HREF="https://xiaofeng-life.github.io/">Homepage</A>]
 
 Note: I will update this repo after the school server reboot. This is almost the final version of my code. So you can easily use it for your research.
 
